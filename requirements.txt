@@ -1,0 +1,6 @@
+
+python-telegram-bot==20.4
+whisper
+torch
+pydub
+nest_asyncio
