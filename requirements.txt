@@ -4,3 +4,5 @@ torch
 torchaudio
 numpy
 pydub
+nest_asyncio
+
