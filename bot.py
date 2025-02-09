@@ -11,7 +11,7 @@ from telegram.ext import Application, MessageHandler, filters, CallbackContext
 nest_asyncio.apply()
 
 # 📌 הכנס את ה-API Token שלך מה-BotFather
-TELEGRAM_BOT_TOKEN = "your-bot-token-here"  # 🔹 הכנס את הטוקן שלך כאן
+TELEGRAM_BOT_TOKEN = "7424286770:AAEHVzWBSO6_8CdjHwApoP8snLQUHz3ZHTE"  # 🔹 הכנס את הטוקן שלך כאן
 
 # 📌 בדיקה אם GPU זמין ושימוש ב-CUDA אם אפשרי
 import torch
