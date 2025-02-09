@@ -18,7 +18,7 @@ import torch
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 # 📌 טעינת מודל Whisper
-model = whisper.load_model("small").to(device)
+model = whisper.load_model("small")
 
 print(f"🚀 מודל Whisper נטען על {device.upper()}")
 
