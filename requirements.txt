@@ -1,7 +1,6 @@
 
-python-telegram-bot==20.4
-numpy
-whisper
+git+https://github.com/openai/whisper.git
 torch
+torchaudio
+numpy
 pydub
-nest_asyncio
